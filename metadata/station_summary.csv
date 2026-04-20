@@ -1,11 +1,11 @@
-event,station,snr_Z_after_dB,snr_N_after_dB,snr_E_after_dB,lag_ZN_sampel,lag_ZE_sampel,lag_ZN_detik,lag_ZE_detik,dt_tiba_ZN_detik,dt_tiba_ZE_detik
-aceh_m55,BKB,-1.1396,-0.0665,-0.4313,-10176,-9920,-508.8,-496.0,508.8,496.0
-aceh_m55,BKNI,-1.169,-2.1965,0.1727,20288,21312,1014.4,1065.6,1014.4,1065.6
-aceh_m55,PMBI,-0.4348,-1.648,-1.9825,-14016,17984,-700.8,899.2,700.8,899.2
-jatim_m58,BNDI,-0.8118,-1.8495,-0.1895,20800,-10432,1040.0,-521.6,1040.0,521.6
-papua_m59,BKB,-0.4028,-0.0453,-1.2437,-5824,-5312,-291.2,-265.6,291.2,265.6
-papua_m59,BNDI,-1.23,-2.178,-1.1291,9536,9536,476.8,476.8,476.8,476.8
-sumbawa_m52,BKB,-1.3336,-0.0532,0.1808,-11712,-11712,-585.6,-585.6,585.6,585.6
-sumbawa_m52,BKNI,-1.1534,-0.3932,-1.0066,20032,-11968,1001.6,-598.4,1001.6,598.4
-sumbawa_m52,PMBI,-1.8486,-2.5956,-1.4798,15424,17216,771.2,860.8,771.2,860.8
-sumut_m58,SMRI,-0.7371,0.2249,-1.5997,-4800,-4032,-240.0,-201.6,240.0,201.6
+event,station,snr_Z_sebelum_dB,snr_Z_sesudah_dB,snr_Z_peningkatan_dB,snr_N_sebelum_dB,snr_N_sesudah_dB,snr_N_peningkatan_dB,snr_E_sebelum_dB,snr_E_sesudah_dB,snr_E_peningkatan_dB,lag_ZN_sampel,lag_ZE_sampel,lag_ZN_detik,lag_ZE_detik,dt_tiba_ZN_detik,dt_tiba_ZE_detik,interpretasi_ZN,interpretasi_ZE
+aceh_m55,BKB,1.0309618069993338,-1.1396,-2.1706,0.9297656268453852,-0.0665,-0.9962,0.9589787543517037,-0.4313,-1.3902,-10176,-9920,-508.8,-496.0,508.8,496.0,Kanal Z tiba 508.8s lebih awal dari N,Kanal Z tiba 496.0s lebih awal dari E
+aceh_m55,BKNI,0.9845937329013957,-1.169,-2.1536,0.8831547808665536,-2.1965,-3.0797,0.8658868981759269,0.1727,-0.6931,20288,21312,1014.4,1065.6,1014.4,1065.6,Kanal N tiba 1014.4s lebih awal dari Z,Kanal E tiba 1065.6s lebih awal dari Z
+aceh_m55,PMBI,1.0079388354595022,-0.4348,-1.4428,0.8582798999669996,-1.648,-2.5063,0.8743514894059768,-1.9825,-2.8568,-14016,17984,-700.8,899.2,700.8,899.2,Kanal Z tiba 700.8s lebih awal dari N,Kanal E tiba 899.2s lebih awal dari Z
+jatim_m58,BNDI,0.9037694954793769,-0.8118,-1.7156,0.8084929656249485,-1.8495,-2.658,1.0230951388119196,-0.1895,-1.2126,20800,-10432,1040.0,-521.6,1040.0,521.6,Kanal N tiba 1040.0s lebih awal dari Z,Kanal Z tiba 521.6s lebih awal dari E
+papua_m59,BKB,0.9699499008922922,-0.4028,-1.3727,1.0232461274236508,-0.0453,-1.0685,0.9636238166314967,-1.2437,-2.2073,-5824,-5312,-291.2,-265.6,291.2,265.6,Kanal Z tiba 291.2s lebih awal dari N,Kanal Z tiba 265.6s lebih awal dari E
+papua_m59,BNDI,1.0105023231295218,-1.23,-2.2405,1.0036733607757764,-2.178,-3.1817,0.8408031328700806,-1.1291,-1.9699,9536,9536,476.8,476.8,476.8,476.8,Kanal N tiba 476.8s lebih awal dari Z,Kanal E tiba 476.8s lebih awal dari Z
+sumbawa_m52,BKB,NaN,-1.3336,NaN,0.9021428155072777,-0.0532,-0.9553,NaN,0.1808,NaN,-11712,-11712,-585.6,-585.6,585.6,585.6,Kanal Z tiba 585.6s lebih awal dari N,Kanal Z tiba 585.6s lebih awal dari E
+sumbawa_m52,BKNI,0.9421135905033705,-1.1534,-2.0955,0.7955337590854701,-0.3932,-1.1888,1.0449111331528194,-1.0066,-2.0515,20032,-11968,1001.6,-598.4,1001.6,598.4,Kanal N tiba 1001.6s lebih awal dari Z,Kanal Z tiba 598.4s lebih awal dari E
+sumbawa_m52,PMBI,1.0061113745278212,-1.8486,-2.8547,0.7575353621679018,-2.5956,-3.3531,0.6335786517663315,-1.4798,-2.1134,15424,17216,771.2,860.8,771.2,860.8,Kanal N tiba 771.2s lebih awal dari Z,Kanal E tiba 860.8s lebih awal dari Z
+sumut_m58,SMRI,0.9103193457533226,-0.7371,-1.6474,0.7601855459546708,0.2249,-0.5353,1.2970463196307491,-1.5997,-2.8967,-4800,-4032,-240.0,-201.6,240.0,201.6,Kanal Z tiba 240.0s lebih awal dari N,Kanal Z tiba 201.6s lebih awal dari E
